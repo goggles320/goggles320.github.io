@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to J.Wong's Github Pages
 
 You can use the [editor on GitHub](https://github.com/goggles320/goggles320.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
